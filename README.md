@@ -1,4 +1,4 @@
-# Shape Modeling and Geometry Processing 2016
+# Shape Modeling and Geometry Processing 2017
 Codes for the Shape Modeling and Geometry Processing course of 2017 at ETH Zurich
 
 ## Disclaimer
